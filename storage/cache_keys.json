@@ -1,0 +1,9 @@
+{
+    "Botble\\Ecommerce\\Services\\HandleShippingFeeService": [
+        "66d6c800acf0bbfe034c13e9e2145ba3@51be1ebece90facb2e08e42e8d72ab49",
+        "66d6c800acf0bbfe034c13e9e2145ba3@1e429429d0130b0fd1d16d66ce63c4d4"
+    ],
+    "Botble\\Base\\Supports\\DashboardMenu": [
+        "03eefa39b82d941c0f50db437493c565@dashboard_menu:admin:Botble\\ACL\\Models\\User:2:en"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "id": "botble/englandlogistics",
+    "name": "England Logistics",
+    "namespace": "Botble\\Englandlogistics\\",
+    "provider": "Botble\\Englandlogistics\\Providers\\EnglandlogisticsServiceProvider",
+    "author": "Sam Raimi",
+    "url": "https://botble.com",
+    "version": "1.0.0",
+    "description": "Multi-Carrier England Logistics Shipping Rates & Address Validation for Ecommerce"
+}

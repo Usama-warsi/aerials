@@ -1,0 +1,9 @@
+{
+    "name": "botble/braintree",
+    "description": "braintree Payment Gateway",
+    "type": "package",
+    "require": {
+        "braintree/braintree_php": "^6.17"
+    }
+}
+

@@ -30,7 +30,10 @@
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/simple-line-icons.css')}}">
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/flaticon.css')}}">
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/linearicons.css')}}">
-       <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/themify-icons.css')}}">
+        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/plugins/slick/slick-theme.css')}}">
+       <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/plugins/slick/slick.css')}}">
+       <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/plugins/lightGallery/css/lightgallery.min.css')}}">
+        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/themify-icons.css')}}">
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/ionicons.min.css')}}">
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/animate.css')}}">
        <link rel="stylesheet" type="text/css" media="all" href="{{url('themes/shopwise/css/style.css?v=1.39.1')}}">
